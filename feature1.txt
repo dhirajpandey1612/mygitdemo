@@ -1,3 +1,6 @@
+hi
+this is a feature 1 file.
+adding new lines
 hi 
 this is feature1
 adding new lines from master
